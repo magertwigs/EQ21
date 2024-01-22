@@ -1,0 +1,22 @@
+body{
+    background-color: #ded4d4;
+    margin: auto;
+}
+h3{
+    text-align: center;
+    margin-top: 10px;
+}
+h5{
+    margin-left: 50px;
+    color: chocolate;
+}
+p{
+    margin-left: 50px;
+}
+img{
+    margin-left: 470px;
+    margin-top: 40px;
+    border-radius: 5000px;
+    width: 70px;
+    height: 100px;
+}
